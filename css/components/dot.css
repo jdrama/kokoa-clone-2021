@@ -1,0 +1,8 @@
+.dot {
+  background-color: tomato;
+  display: flex;
+  justify-content: center;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
